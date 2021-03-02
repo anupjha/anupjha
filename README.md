@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anup Jha</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<h5>Started my developer journey with PHP  in College. Became a Java/J2EE developer in my first job and the next job made me a MEAN(MongoDb, Express, AngularJS, NodeJS) stack developer then React came along with me and I enjoy it. </h6>
 
 - 📫 How to reach me **anupkrjha@gmail.com**
 
