@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Anup Jha</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<h5>Started my developer journey with PHP  in College. Became a Java/J2EE developer in my first job and the next job made me a MEAN(MongoDb, Express, AngularJS, NodeJS) stack developer then React came along with me and I enjoy it. </h6>
+<h3 align="center">I used to build large scale JavaScript applications...</h3>
+<h6>
+Currently working as an Engineering Manager, I am dedicated to steering teams towards innovation, efficiency, and excellence. With a passion for both technology and people, I bridge the gap between technical prowess and effective collaboration.
+</h6>
+<h6>
+My journey has been marked by a deep understanding of engineering principles, honed through years of hands-on experience. From conceptualization to execution, I have a track record of transforming intricate ideas into tangible solutions. However, my role extends far beyond technical prowess. I recognize that a successful engineering team is not only built on code but on the strengths of its members.
+</h6>
+<h6>
+I thrive on fostering an environment that empowers individuals to reach their potential. By promoting open communication, recognizing achievements, and providing mentorship, I create a cohesive unit that delivers results greater than the sum of its parts. I believe that diverse perspectives fuel innovation, and I am committed to cultivating an inclusive workspace where all voices are heard and valued.
+</h6>
+<h6>
+In a rapidly evolving technological landscape, I remain adaptable and eager to embrace change. Whether it's navigating complex challenges or identifying emerging trends, I am dedicated to leading my team with a blend of strategic thinking and a hands-on approach. My goal is to not only meet project goals but to exceed them, driving the team and the organization to new heights.
+</h6>
+<h6>
+Collaboration, continuous learning, and a passion for progress define my approach to engineering management. Together, we will forge ahead, creating solutions that leave an indelible mark on both the industry and the world.
+</h6>
 
 - 📫 Reach me:  **anupkrjha@gmail.com**
 
